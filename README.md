@@ -8,4 +8,4 @@ Topology data for MEC networks
     - `ingress.txt`   : ingress nodes
 
 **Notice**:
-Topology `MilanCityCenter` is generated based on the data from [**OpenCellID**](https://www.opencellid.org/), which is an open database of cell towers. We considered the Milan City Center area around Duomo. The others are random topologies generated with different numbers of nodes and edges.
+Topology `MilanCityCenter` is generated based on the data from [**OpenCellID**](https://www.opencellid.org/), which is an open database of cell towers. The Milan City Center area around Duomo is considered. The others are random topologies generated with different numbers of nodes and edges.
